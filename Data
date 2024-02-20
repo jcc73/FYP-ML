@@ -1,2 +1,2 @@
-git add .
-git commit -m "Added new folder"
+git add ./
+
